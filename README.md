@@ -98,7 +98,7 @@ This project was built using Tailwind css , React, Redux , ChakraUI Node JS, Exp
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/Deepeshgodhwani/Exploding-kittens) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/saidul-122/Exploding-Kitten) or just clone the project using this command. 
 
 
 ```
